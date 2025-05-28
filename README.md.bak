@@ -22,7 +22,7 @@ A seguir, descrevo os passos executados, ilustrados pelas imagens fornecidas no 
 Para iniciar o SEToolkit, primeiro obtemos privilégios de root e depois executamos a ferramenta.
 
 ![image](https://github.com/ronaldoramos85/cibersecurity-desafio-phishing/blob/main/images/setoolkit_001.jpg)
-Mostra o terminal do Kali Linux. Entramos como usuário `ronaldo@kalisec` e então usamos `sudo su -` para obter privilégios de root (`root@kalisec`). Em seguida, executamos o comando `setoolkit`.
+Mostra o terminal do Kali Linux. Entramos como usuário comum e então usamos `sudo su -` para obter privilégios de root. Em seguida, executamos o comando `setoolkit`.
 
 ### 2. Menu Principal do SEToolkit
 
